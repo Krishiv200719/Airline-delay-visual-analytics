@@ -1,0 +1,1201 @@
+flight_id,airline,origin,destination,departure_time,arrival_time,delay_minutes,status
+UK422,IndiGo,DEL,BLR,15:15,17:34,19,delayed
+6E804,SpiceJet,BLR,AMD,05:30,07:30,0,on-time
+UK374,SpiceJet,AMD,MAA,18:45,20:45,0,on-time
+UK182,Vistara,BLR,PNQ,07:45,09:52,7,delayed
+G8667,IndiGo,PNQ,MAA,09:45,14:45,180,cancelled
+AI772,IndiGo,PNQ,DEL,05:45,07:58,13,delayed
+6E905,Vistara,BLR,DEL,09:30,11:30,0,on-time
+SG244,Vistara,BOM,CCU,08:15,10:31,16,delayed
+SG287,GoAir,BOM,MAA,18:45,20:45,0,on-time
+UK521,Air India,BOM,DEL,11:00,13:17,17,delayed
+UK795,Air India,AMD,HYD,06:00,08:00,0,on-time
+G8261,Air India,PNQ,BOM,16:00,18:19,19,delayed
+UK678,IndiGo,DEL,BOM,15:15,17:15,0,on-time
+6E528,Air India,BOM,MAA,21:00,23:00,0,on-time
+SG814,IndiGo,PNQ,MAA,08:30,10:30,0,on-time
+SG574,SpiceJet,HYD,BOM,18:45,20:12,27,delayed
+UK767,SpiceJet,HYD,DEL,22:00,00:00,0,on-time
+AI306,SpiceJet,PNQ,DEL,13:45,15:55,10,delayed
+6E258,GoAir,HYD,BLR,11:00,13:00,0,on-time
+6E233,Air India,CCU,HYD,16:30,18:30,0,on-time
+UK453,Air India,CCU,BLR,08:45,10:45,0,on-time
+SG215,GoAir,HYD,BLR,11:30,13:38,8,delayed
+G8235,Air India,DEL,CCU,20:30,22:30,0,on-time
+AI679,GoAir,BLR,AMD,08:45,10:45,0,on-time
+SG921,Air India,HYD,BOM,21:45,23:45,0,on-time
+6E259,Vistara,BLR,DEL,17:45,19:45,0,on-time
+UK490,Vistara,CCU,BLR,10:45,12:45,0,on-time
+6E941,Vistara,PNQ,DEL,05:30,07:30,0,on-time
+AI498,Vistara,MAA,AMD,06:30,08:30,0,on-time
+SG209,GoAir,AMD,BLR,19:45,21:45,0,on-time
+6E899,GoAir,PNQ,MAA,12:45,14:01,16,delayed
+SG954,Air India,PNQ,BLR,12:45,14:45,0,on-time
+6E456,GoAir,HYD,BOM,14:00,18:31,151,cancelled
+SG628,IndiGo,PNQ,MAA,14:30,17:57,87,delayed
+6E840,IndiGo,MAA,BLR,20:45,22:45,0,on-time
+UK335,IndiGo,AMD,PNQ,06:30,08:30,0,on-time
+G8502,SpiceJet,HYD,MAA,06:30,08:30,0,on-time
+G8106,Air India,BOM,BLR,05:45,07:03,18,delayed
+SG271,Air India,PNQ,AMD,05:30,07:30,0,on-time
+UK823,GoAir,PNQ,DEL,05:00,07:00,0,on-time
+G8973,SpiceJet,MAA,AMD,22:15,00:15,0,on-time
+AI837,GoAir,BOM,BLR,12:30,14:30,0,on-time
+G8903,Vistara,BLR,HYD,19:30,21:30,0,on-time
+G8129,GoAir,HYD,AMD,22:45,00:45,0,on-time
+UK773,IndiGo,MAA,HYD,08:30,11:25,115,delayed
+AI922,SpiceJet,HYD,BLR,12:30,14:30,0,on-time
+SG373,IndiGo,PNQ,MAA,19:15,21:38,23,delayed
+G8657,SpiceJet,DEL,HYD,19:30,21:30,0,on-time
+SG291,IndiGo,CCU,BLR,20:15,22:15,0,on-time
+AI915,SpiceJet,CCU,AMD,06:15,08:15,0,on-time
+G8102,IndiGo,PNQ,AMD,20:15,22:15,0,on-time
+SG307,Air India,CCU,PNQ,08:00,10:00,0,on-time
+SG706,GoAir,BLR,HYD,12:30,14:27,57,delayed
+SG109,GoAir,CCU,AMD,14:00,16:00,0,on-time
+UK231,GoAir,DEL,BOM,08:15,10:30,15,delayed
+6E216,GoAir,MAA,BOM,11:45,13:12,27,delayed
+AI106,Air India,BLR,PNQ,22:45,00:30,45,delayed
+G8345,Air India,MAA,AMD,11:00,13:00,0,on-time
+G8728,GoAir,MAA,CCU,07:45,09:56,11,delayed
+UK597,IndiGo,BOM,BLR,06:30,08:30,0,on-time
+6E394,SpiceJet,DEL,PNQ,07:00,09:00,0,on-time
+6E391,GoAir,HYD,PNQ,16:00,18:00,0,on-time
+SG278,Vistara,BLR,MAA,15:00,17:00,0,on-time
+G8983,Vistara,DEL,AMD,06:30,08:30,0,on-time
+AI728,Vistara,BOM,MAA,07:30,09:30,0,on-time
+UK164,GoAir,PNQ,DEL,13:30,15:30,0,on-time
+SG573,Vistara,PNQ,BLR,15:30,17:30,0,on-time
+G8248,GoAir,HYD,CCU,11:30,13:30,0,on-time
+AI696,Vistara,BOM,HYD,05:45,07:45,0,on-time
+UK565,SpiceJet,MAA,BOM,10:15,12:30,15,delayed
+G8637,GoAir,DEL,BOM,16:30,18:30,0,on-time
+6E929,GoAir,CCU,DEL,06:15,08:15,0,on-time
+AI754,GoAir,BOM,DEL,08:00,10:26,26,delayed
+UK164,GoAir,DEL,PNQ,09:45,11:03,18,delayed
+G8186,Air India,MAA,DEL,14:00,16:24,24,delayed
+6E253,SpiceJet,DEL,BLR,11:30,13:30,0,on-time
+SG782,IndiGo,PNQ,AMD,13:00,15:00,0,on-time
+SG603,SpiceJet,BOM,MAA,17:45,19:45,0,on-time
+G8388,Vistara,BLR,DEL,17:45,19:45,0,on-time
+6E861,Air India,PNQ,DEL,17:00,19:00,0,on-time
+6E661,GoAir,CCU,DEL,20:45,22:15,30,delayed
+AI316,Vistara,BOM,CCU,16:30,18:30,0,on-time
+SG500,GoAir,CCU,BOM,19:00,21:00,0,on-time
+SG774,Air India,HYD,BOM,07:00,09:18,18,delayed
+AI356,SpiceJet,HYD,CCU,22:15,00:15,0,on-time
+6E654,IndiGo,CCU,MAA,18:45,20:45,0,on-time
+AI510,IndiGo,BLR,HYD,10:45,12:45,0,on-time
+AI187,SpiceJet,CCU,PNQ,19:15,22:02,107,delayed
+UK436,Vistara,CCU,AMD,19:45,21:45,0,on-time
+6E590,SpiceJet,MAA,CCU,17:15,19:15,0,on-time
+UK827,Air India,MAA,BOM,18:45,20:45,0,on-time
+6E564,SpiceJet,DEL,PNQ,13:00,15:00,0,on-time
+6E686,GoAir,PNQ,DEL,21:15,23:15,0,on-time
+SG255,GoAir,MAA,PNQ,13:15,15:15,0,on-time
+SG301,IndiGo,BLR,AMD,15:30,17:30,0,on-time
+AI210,SpiceJet,DEL,CCU,13:15,15:15,0,on-time
+G8886,Air India,BLR,PNQ,20:00,22:00,0,on-time
+UK382,Air India,CCU,PNQ,11:45,13:12,27,delayed
+G8811,Air India,CCU,HYD,13:45,15:58,13,delayed
+UK402,IndiGo,DEL,CCU,06:15,08:15,0,on-time
+6E870,SpiceJet,MAA,PNQ,12:00,14:00,0,on-time
+AI775,IndiGo,PNQ,MAA,20:45,22:45,0,on-time
+AI433,Air India,PNQ,HYD,10:00,12:17,17,delayed
+UK842,GoAir,HYD,BOM,20:45,22:16,31,delayed
+AI663,GoAir,AMD,CCU,06:00,08:24,24,delayed
+6E137,GoAir,HYD,BLR,06:00,08:00,0,on-time
+UK626,GoAir,AMD,PNQ,09:45,11:45,0,on-time
+UK393,Vistara,MAA,AMD,17:45,19:45,0,on-time
+SG975,SpiceJet,BOM,CCU,20:30,22:30,0,on-time
+UK304,SpiceJet,HYD,BOM,09:00,11:00,0,on-time
+UK138,SpiceJet,HYD,PNQ,09:00,11:00,0,on-time
+SG521,SpiceJet,BOM,HYD,06:45,08:45,0,on-time
+UK830,SpiceJet,CCU,MAA,06:30,08:30,0,on-time
+G8762,Air India,PNQ,BLR,10:15,12:22,7,delayed
+6E775,Air India,DEL,AMD,12:45,14:45,0,on-time
+G8526,SpiceJet,BLR,PNQ,05:15,07:15,0,on-time
+UK517,Air India,BLR,CCU,17:45,19:45,0,on-time
+AI251,Vistara,CCU,MAA,07:30,09:44,14,delayed
+AI427,Vistara,BLR,DEL,05:30,07:30,0,on-time
+6E372,IndiGo,MAA,BLR,21:45,23:45,0,on-time
+G8224,Air India,DEL,AMD,19:30,21:38,8,delayed
+6E715,IndiGo,CCU,AMD,10:15,12:40,25,delayed
+G8890,SpiceJet,HYD,MAA,19:30,23:41,131,delayed
+G8779,Vistara,DEL,AMD,12:30,14:30,0,on-time
+6E779,IndiGo,DEL,PNQ,09:15,13:17,122,delayed
+6E363,Vistara,AMD,BLR,06:00,08:27,27,delayed
+SG642,GoAir,HYD,BLR,19:00,21:00,0,on-time
+G8620,Air India,PNQ,MAA,12:30,14:30,0,on-time
+AI954,Vistara,MAA,AMD,21:00,23:00,0,on-time
+AI541,GoAir,CCU,DEL,20:15,22:15,0,on-time
+SG561,IndiGo,PNQ,DEL,16:30,18:42,12,delayed
+UK184,Vistara,AMD,PNQ,20:45,22:45,0,on-time
+6E705,GoAir,BOM,MAA,14:00,16:00,0,on-time
+UK796,SpiceJet,BOM,PNQ,14:45,16:45,0,on-time
+AI154,GoAir,BOM,CCU,16:00,18:00,0,on-time
+AI790,Air India,BLR,DEL,22:30,00:30,0,on-time
+6E252,GoAir,BLR,BOM,06:15,08:15,0,on-time
+AI375,Air India,HYD,PNQ,17:45,19:45,0,on-time
+SG916,Vistara,HYD,CCU,22:00,00:00,0,on-time
+6E265,SpiceJet,CCU,DEL,08:15,10:38,23,delayed
+6E876,SpiceJet,MAA,AMD,14:15,16:15,0,on-time
+AI292,GoAir,HYD,CCU,05:30,07:30,0,on-time
+6E552,GoAir,MAA,PNQ,14:30,16:30,0,on-time
+AI373,GoAir,BOM,DEL,16:15,18:15,0,on-time
+G8751,SpiceJet,HYD,AMD,12:00,14:00,0,on-time
+SG269,IndiGo,AMD,MAA,12:00,14:00,0,on-time
+UK926,IndiGo,PNQ,BLR,10:45,13:01,76,delayed
+AI201,IndiGo,CCU,DEL,08:45,11:48,63,delayed
+AI116,IndiGo,PNQ,CCU,17:45,19:51,6,delayed
+SG929,IndiGo,BLR,CCU,17:30,19:30,0,on-time
+AI864,Vistara,BLR,HYD,15:30,17:49,19,delayed
+AI493,IndiGo,PNQ,MAA,20:45,22:45,0,on-time
+SG905,IndiGo,MAA,PNQ,07:00,09:49,49,delayed
+AI602,GoAir,BOM,DEL,11:30,13:30,0,on-time
+AI408,SpiceJet,CCU,MAA,06:45,08:11,26,delayed
+SG353,IndiGo,BOM,HYD,12:00,14:00,0,on-time
+SG483,Vistara,BLR,PNQ,20:45,22:45,0,on-time
+UK104,IndiGo,PNQ,HYD,22:15,00:40,25,delayed
+SG577,GoAir,BOM,DEL,22:15,00:48,33,delayed
+SG731,SpiceJet,DEL,PNQ,15:45,17:45,0,on-time
+AI878,Vistara,DEL,HYD,13:15,15:32,17,delayed
+6E170,Air India,AMD,MAA,16:30,18:30,0,on-time
+AI757,IndiGo,PNQ,BLR,08:00,10:13,13,delayed
+6E145,Vistara,BLR,MAA,15:30,17:30,0,on-time
+6E994,IndiGo,MAA,PNQ,15:45,17:07,22,delayed
+G8302,Air India,DEL,CCU,16:45,18:50,5,delayed
+UK117,GoAir,PNQ,AMD,20:30,22:30,0,on-time
+UK629,SpiceJet,PNQ,MAA,18:45,20:12,27,delayed
+6E227,GoAir,HYD,DEL,15:15,17:15,0,on-time
+SG138,IndiGo,BLR,DEL,21:15,00:27,72,delayed
+UK123,SpiceJet,DEL,PNQ,12:30,14:30,0,on-time
+SG605,SpiceJet,CCU,HYD,07:45,09:12,27,delayed
+SG691,Air India,PNQ,DEL,17:30,19:30,0,on-time
+UK858,Vistara,DEL,AMD,12:30,14:30,0,on-time
+UK527,Vistara,BOM,DEL,07:30,09:30,0,on-time
+6E880,IndiGo,BOM,PNQ,22:30,00:30,0,on-time
+G8813,SpiceJet,PNQ,HYD,18:45,21:30,105,delayed
+G8659,SpiceJet,BLR,DEL,07:15,11:17,122,cancelled
+SG351,Air India,DEL,MAA,17:15,19:15,0,on-time
+AI786,Air India,CCU,BOM,21:15,01:43,148,delayed
+G8503,IndiGo,HYD,BOM,10:00,12:00,0,on-time
+6E972,Vistara,MAA,CCU,07:15,09:15,0,on-time
+6E443,IndiGo,CCU,PNQ,16:00,18:00,0,on-time
+SG461,Air India,BOM,CCU,07:15,11:12,177,delayed
+6E493,IndiGo,PNQ,DEL,20:45,22:57,12,delayed
+SG334,IndiGo,DEL,HYD,20:00,22:00,0,on-time
+AI196,Air India,PNQ,AMD,16:15,18:39,24,delayed
+UK988,Air India,BLR,MAA,07:30,09:49,19,delayed
+G8268,Air India,CCU,DEL,21:15,23:57,42,delayed
+AI356,Air India,PNQ,DEL,16:15,18:15,0,on-time
+SG365,GoAir,BOM,MAA,09:45,11:25,40,delayed
+G8417,Vistara,DEL,PNQ,22:00,03:00,180,cancelled
+G8282,IndiGo,AMD,MAA,16:15,18:28,13,delayed
+SG228,GoAir,BOM,BLR,16:15,19:02,107,delayed
+AI115,SpiceJet,MAA,BOM,07:45,09:45,0,on-time
+AI501,Vistara,PNQ,HYD,05:00,07:00,0,on-time
+G8830,Vistara,HYD,MAA,15:15,17:35,20,delayed
+6E143,SpiceJet,DEL,BLR,10:30,12:30,0,on-time
+AI441,IndiGo,BOM,PNQ,10:00,12:00,0,on-time
+6E860,Vistara,AMD,BOM,12:00,14:00,0,on-time
+G8157,IndiGo,MAA,AMD,15:45,17:45,0,on-time
+SG765,IndiGo,PNQ,HYD,15:15,17:15,0,on-time
+UK200,SpiceJet,PNQ,BLR,22:30,00:30,0,on-time
+AI271,Air India,PNQ,MAA,07:45,09:45,0,on-time
+6E431,SpiceJet,MAA,BLR,07:30,09:30,0,on-time
+UK132,SpiceJet,BOM,BLR,09:15,11:22,7,delayed
+6E586,IndiGo,PNQ,BLR,16:45,18:13,28,delayed
+AI832,Vistara,BOM,HYD,05:00,07:00,0,on-time
+UK809,Vistara,CCU,MAA,22:45,01:52,67,delayed
+6E428,GoAir,DEL,MAA,11:15,13:15,0,on-time
+AI868,Air India,DEL,CCU,19:30,22:54,84,delayed
+G8695,SpiceJet,BOM,DEL,11:00,13:00,0,on-time
+UK163,GoAir,BOM,BLR,13:00,15:00,0,on-time
+6E522,SpiceJet,HYD,DEL,18:30,20:30,0,on-time
+UK248,Air India,BOM,CCU,12:45,14:45,0,on-time
+SG356,SpiceJet,PNQ,BLR,15:15,19:43,148,cancelled
+UK845,GoAir,HYD,DEL,16:00,18:00,0,on-time
+UK883,SpiceJet,MAA,BOM,19:00,21:00,0,on-time
+6E882,Vistara,AMD,CCU,17:45,19:45,0,on-time
+UK257,SpiceJet,HYD,AMD,22:00,00:00,0,on-time
+UK528,GoAir,HYD,DEL,07:15,11:46,151,delayed
+G8845,Air India,PNQ,HYD,18:15,20:15,0,on-time
+6E555,Vistara,PNQ,MAA,17:15,19:15,0,on-time
+AI445,GoAir,CCU,AMD,09:30,12:33,63,delayed
+G8343,Air India,HYD,DEL,18:15,20:15,0,on-time
+UK720,IndiGo,AMD,HYD,14:45,16:41,56,delayed
+6E741,SpiceJet,AMD,BLR,15:00,17:00,0,on-time
+6E326,GoAir,MAA,CCU,06:00,10:10,130,cancelled
+6E764,GoAir,PNQ,AMD,13:45,15:45,0,on-time
+AI825,GoAir,PNQ,CCU,09:45,12:47,62,delayed
+6E834,IndiGo,BLR,AMD,05:00,07:00,0,on-time
+UK479,SpiceJet,AMD,BOM,18:00,20:16,16,delayed
+SG210,Air India,BOM,BLR,17:15,19:15,0,on-time
+6E972,Air India,HYD,BLR,16:45,18:45,0,on-time
+UK616,SpiceJet,DEL,PNQ,16:15,18:29,14,delayed
+UK684,GoAir,PNQ,BOM,21:45,23:33,48,delayed
+UK281,SpiceJet,MAA,AMD,21:45,23:51,6,delayed
+6E610,SpiceJet,BLR,MAA,14:00,16:00,0,on-time
+UK269,Air India,BOM,BLR,22:00,00:00,0,on-time
+SG824,Air India,HYD,PNQ,22:30,00:48,18,delayed
+G8943,GoAir,AMD,PNQ,13:00,15:10,10,delayed
+AI106,Air India,HYD,AMD,11:30,13:43,13,delayed
+AI961,Vistara,MAA,CCU,09:45,11:45,0,on-time
+UK630,IndiGo,BOM,PNQ,18:30,20:46,16,delayed
+6E987,Vistara,BLR,CCU,08:00,10:00,0,on-time
+AI550,Air India,PNQ,DEL,19:15,23:17,122,delayed
+6E249,Vistara,MAA,HYD,22:45,00:45,0,on-time
+6E554,Vistara,MAA,PNQ,11:15,13:15,0,on-time
+6E770,GoAir,BLR,AMD,14:15,16:15,0,on-time
+G8339,Air India,HYD,DEL,18:30,20:30,0,on-time
+SG927,Vistara,BLR,PNQ,18:00,20:00,0,on-time
+SG519,Air India,HYD,BOM,15:45,17:45,0,on-time
+UK939,Vistara,AMD,BOM,13:15,15:15,0,on-time
+AI588,Vistara,PNQ,MAA,21:30,01:10,160,cancelled
+UK941,Vistara,MAA,HYD,22:00,00:00,0,on-time
+UK704,SpiceJet,AMD,HYD,19:30,21:30,0,on-time
+AI957,Vistara,HYD,DEL,19:00,21:09,9,delayed
+AI649,Vistara,CCU,BLR,22:45,00:59,14,delayed
+6E431,Air India,PNQ,BOM,17:15,19:15,0,on-time
+UK674,IndiGo,BOM,HYD,06:15,08:15,0,on-time
+AI620,IndiGo,BLR,PNQ,07:00,09:00,0,on-time
+6E640,SpiceJet,DEL,HYD,08:45,10:45,0,on-time
+G8577,GoAir,BLR,DEL,10:30,12:30,0,on-time
+SG911,GoAir,HYD,BOM,16:00,18:00,0,on-time
+AI202,IndiGo,BLR,HYD,22:30,00:30,0,on-time
+G8280,GoAir,MAA,CCU,05:15,07:20,5,delayed
+G8281,Vistara,CCU,PNQ,05:15,07:15,0,on-time
+6E641,Vistara,PNQ,MAA,14:15,16:15,0,on-time
+AI103,Air India,BLR,MAA,22:45,00:45,0,on-time
+UK862,Air India,BOM,MAA,17:00,19:18,18,delayed
+6E740,GoAir,BLR,DEL,15:45,17:45,0,on-time
+AI504,Air India,CCU,PNQ,08:15,10:31,16,delayed
+G8367,Air India,PNQ,DEL,08:15,10:15,0,on-time
+AI987,Vistara,BOM,MAA,13:30,15:30,0,on-time
+AI168,IndiGo,DEL,MAA,22:30,00:54,24,delayed
+UK743,Air India,DEL,MAA,15:30,17:30,0,on-time
+AI452,IndiGo,PNQ,DEL,21:00,23:28,28,delayed
+G8445,Air India,PNQ,BOM,09:00,11:00,0,on-time
+G8436,Vistara,DEL,AMD,22:15,00:15,0,on-time
+UK734,Air India,HYD,PNQ,15:15,17:46,31,delayed
+SG672,Air India,AMD,DEL,17:45,19:59,14,delayed
+6E475,Air India,BOM,MAA,12:00,14:00,0,on-time
+G8302,IndiGo,BLR,HYD,07:30,09:30,0,on-time
+AI151,Air India,PNQ,HYD,18:30,20:30,0,on-time
+AI595,IndiGo,MAA,DEL,11:30,14:42,72,delayed
+UK718,SpiceJet,CCU,BLR,19:15,21:15,0,on-time
+6E412,IndiGo,DEL,BLR,17:15,19:36,21,delayed
+UK785,Air India,DEL,PNQ,06:45,08:45,0,on-time
+UK661,Vistara,CCU,BLR,07:45,11:24,159,delayed
+G8184,IndiGo,MAA,BLR,17:15,19:35,20,delayed
+SG131,GoAir,DEL,BLR,22:00,00:42,42,delayed
+UK910,IndiGo,MAA,HYD,06:45,09:00,75,delayed
+G8145,SpiceJet,MAA,HYD,06:30,08:30,0,on-time
+UK849,Vistara,HYD,BLR,05:00,07:21,21,delayed
+G8930,Vistara,CCU,PNQ,20:30,00:28,178,delayed
+6E812,GoAir,HYD,BOM,10:45,12:45,0,on-time
+SG397,IndiGo,DEL,HYD,15:45,17:45,0,on-time
+AI954,IndiGo,PNQ,BLR,09:15,11:15,0,on-time
+SG413,Air India,HYD,CCU,13:00,15:00,0,on-time
+6E943,IndiGo,CCU,MAA,11:45,13:09,24,delayed
+6E908,Air India,AMD,BLR,16:45,18:45,0,on-time
+UK911,IndiGo,PNQ,MAA,08:45,10:45,0,on-time
+UK151,GoAir,PNQ,MAA,18:30,20:30,0,on-time
+G8275,GoAir,AMD,DEL,14:15,16:15,0,on-time
+UK866,Air India,CCU,AMD,10:30,12:30,0,on-time
+G8106,Vistara,CCU,HYD,14:15,16:15,0,on-time
+6E264,Air India,CCU,MAA,09:00,11:00,0,on-time
+6E608,Vistara,MAA,PNQ,22:15,00:15,0,on-time
+6E440,GoAir,PNQ,DEL,16:15,18:30,15,delayed
+AI378,IndiGo,BLR,CCU,14:45,16:04,19,delayed
+UK257,Air India,DEL,BLR,05:15,07:42,27,delayed
+G8725,SpiceJet,DEL,BLR,09:00,12:30,90,delayed
+UK512,IndiGo,AMD,DEL,05:30,07:30,0,on-time
+UK560,Vistara,CCU,BLR,09:15,11:15,0,on-time
+AI167,GoAir,DEL,AMD,21:30,23:26,56,delayed
+SG926,Air India,BLR,HYD,08:30,10:30,0,on-time
+AI907,GoAir,BOM,DEL,18:30,20:16,46,delayed
+SG167,Vistara,PNQ,DEL,21:30,23:53,23,delayed
+UK256,GoAir,AMD,PNQ,11:15,13:15,0,on-time
+AI122,IndiGo,BOM,MAA,21:45,01:40,175,delayed
+6E866,Vistara,MAA,PNQ,19:30,21:37,7,delayed
+UK559,GoAir,BLR,PNQ,21:00,23:30,30,delayed
+UK710,Air India,HYD,PNQ,09:45,11:45,0,on-time
+6E290,Vistara,MAA,PNQ,08:30,10:30,0,on-time
+AI625,GoAir,BLR,CCU,05:45,07:45,0,on-time
+UK809,IndiGo,MAA,DEL,05:30,07:30,0,on-time
+6E798,Air India,PNQ,AMD,08:00,10:00,0,on-time
+UK208,Air India,CCU,AMD,05:00,07:00,0,on-time
+UK757,Air India,CCU,BLR,06:45,08:45,0,on-time
+AI890,Air India,PNQ,BLR,06:15,08:28,13,delayed
+6E649,Air India,MAA,PNQ,07:00,09:00,0,on-time
+6E769,Vistara,BOM,AMD,21:00,23:23,23,delayed
+G8101,GoAir,CCU,BLR,16:00,18:00,0,on-time
+SG346,GoAir,AMD,CCU,07:30,09:30,0,on-time
+AI295,Vistara,PNQ,BLR,06:00,09:43,103,delayed
+UK553,IndiGo,CCU,MAA,18:45,20:11,26,delayed
+UK580,SpiceJet,BOM,PNQ,07:15,09:15,0,on-time
+6E152,IndiGo,HYD,AMD,08:45,10:45,0,on-time
+G8194,Air India,CCU,MAA,22:00,00:16,16,delayed
+AI554,GoAir,HYD,AMD,13:30,15:30,0,on-time
+UK189,IndiGo,BLR,MAA,13:00,15:00,0,on-time
+6E604,Vistara,MAA,AMD,10:00,12:00,0,on-time
+AI454,GoAir,BLR,MAA,12:00,14:55,55,delayed
+6E879,IndiGo,HYD,DEL,15:30,17:30,0,on-time
+6E206,IndiGo,PNQ,DEL,08:30,12:23,173,delayed
+SG926,Vistara,PNQ,AMD,08:15,10:34,19,delayed
+AI777,SpiceJet,CCU,AMD,10:00,12:33,33,delayed
+UK240,IndiGo,BOM,AMD,14:30,16:30,0,on-time
+UK588,IndiGo,AMD,MAA,10:45,12:45,0,on-time
+SG649,Vistara,MAA,HYD,20:45,22:45,0,on-time
+G8770,GoAir,BLR,BOM,17:30,19:30,0,on-time
+SG903,Air India,DEL,BOM,22:45,00:45,0,on-time
+AI373,GoAir,CCU,DEL,07:45,09:12,27,delayed
+SG134,Air India,MAA,CCU,05:15,07:15,0,on-time
+G8598,SpiceJet,CCU,BOM,08:00,10:00,0,on-time
+6E378,IndiGo,CCU,DEL,21:15,23:15,0,on-time
+G8737,IndiGo,MAA,AMD,18:00,20:22,22,delayed
+SG418,SpiceJet,BOM,BLR,17:00,19:00,0,on-time
+G8582,Air India,CCU,PNQ,12:45,14:00,15,delayed
+SG702,IndiGo,CCU,BOM,19:15,21:43,28,delayed
+SG231,Vistara,AMD,CCU,16:45,18:12,27,delayed
+UK881,IndiGo,CCU,DEL,11:15,14:32,77,delayed
+G8865,GoAir,PNQ,CCU,08:30,10:30,0,on-time
+AI978,Vistara,DEL,CCU,17:45,19:45,0,on-time
+UK878,Vistara,MAA,AMD,06:15,08:15,0,on-time
+AI662,SpiceJet,AMD,BLR,16:30,18:30,0,on-time
+SG549,IndiGo,BLR,BOM,13:30,15:30,0,on-time
+UK305,Vistara,AMD,BOM,17:15,19:15,0,on-time
+AI918,Vistara,HYD,MAA,18:30,20:30,0,on-time
+SG123,Air India,AMD,PNQ,11:45,13:45,0,on-time
+SG762,Vistara,PNQ,DEL,18:15,20:15,0,on-time
+6E523,SpiceJet,AMD,BLR,08:45,10:45,0,on-time
+UK380,SpiceJet,DEL,CCU,11:30,13:30,0,on-time
+SG520,GoAir,BOM,CCU,09:15,11:39,24,delayed
+AI654,Air India,BLR,MAA,12:00,14:00,0,on-time
+AI313,IndiGo,HYD,BLR,18:00,20:06,6,delayed
+G8134,IndiGo,MAA,DEL,21:45,00:53,68,delayed
+SG200,Vistara,PNQ,HYD,09:45,11:33,48,delayed
+6E712,SpiceJet,BLR,DEL,15:30,17:30,0,on-time
+UK846,GoAir,BLR,PNQ,14:15,16:47,32,delayed
+UK819,GoAir,AMD,CCU,05:15,08:55,100,delayed
+AI832,GoAir,AMD,PNQ,11:15,13:33,18,delayed
+UK127,Vistara,HYD,AMD,05:15,07:15,0,on-time
+SG820,SpiceJet,BLR,AMD,14:30,16:30,0,on-time
+G8154,GoAir,CCU,DEL,13:30,15:22,52,delayed
+AI964,Air India,MAA,BOM,21:45,23:45,0,on-time
+6E457,Vistara,AMD,CCU,16:30,18:38,8,delayed
+SG166,IndiGo,PNQ,BLR,18:45,20:17,32,delayed
+AI191,GoAir,DEL,AMD,21:00,23:00,0,on-time
+G8233,Air India,AMD,BLR,19:15,21:15,0,on-time
+6E434,SpiceJet,MAA,HYD,06:30,08:13,43,delayed
+G8841,Air India,AMD,PNQ,15:00,17:00,0,on-time
+6E726,Air India,DEL,CCU,14:45,18:07,142,cancelled
+G8790,SpiceJet,HYD,DEL,18:15,21:43,88,delayed
+G8138,SpiceJet,MAA,BLR,07:15,09:31,16,delayed
+UK913,SpiceJet,HYD,MAA,07:30,09:30,0,on-time
+G8757,GoAir,CCU,BLR,06:00,08:00,0,on-time
+6E305,GoAir,DEL,AMD,08:45,10:45,0,on-time
+G8736,SpiceJet,BOM,DEL,16:45,18:45,0,on-time
+UK781,Air India,HYD,BLR,14:00,16:00,0,on-time
+SG697,SpiceJet,BLR,MAA,07:30,09:30,0,on-time
+G8545,Vistara,BLR,MAA,17:00,19:00,0,on-time
+AI792,SpiceJet,CCU,PNQ,10:15,12:15,0,on-time
+UK542,GoAir,PNQ,CCU,12:45,14:45,0,on-time
+UK337,Air India,HYD,AMD,12:30,14:30,0,on-time
+G8353,Vistara,DEL,PNQ,05:15,07:15,0,on-time
+6E480,GoAir,DEL,PNQ,05:15,07:52,37,delayed
+AI392,SpiceJet,PNQ,AMD,21:30,23:30,0,on-time
+6E337,Air India,BLR,PNQ,08:00,10:17,17,delayed
+AI602,Vistara,CCU,PNQ,07:30,09:30,0,on-time
+SG343,Vistara,AMD,CCU,16:00,20:03,123,delayed
+6E269,SpiceJet,DEL,PNQ,16:45,18:45,0,on-time
+UK967,SpiceJet,DEL,PNQ,18:15,20:15,0,on-time
+6E400,Air India,PNQ,DEL,14:00,17:16,76,delayed
+SG935,SpiceJet,PNQ,AMD,20:00,22:00,0,on-time
+AI393,IndiGo,AMD,BLR,18:45,20:45,0,on-time
+6E973,SpiceJet,AMD,CCU,14:30,16:51,21,delayed
+G8928,IndiGo,HYD,BOM,22:00,00:42,42,delayed
+6E636,IndiGo,CCU,AMD,06:00,08:17,17,delayed
+UK355,IndiGo,DEL,AMD,14:45,16:02,17,delayed
+AI195,GoAir,AMD,CCU,13:30,15:30,0,on-time
+UK548,IndiGo,BLR,MAA,16:45,18:45,0,on-time
+UK789,IndiGo,MAA,DEL,07:45,09:45,0,on-time
+SG358,SpiceJet,DEL,BLR,20:30,22:30,0,on-time
+AI586,SpiceJet,HYD,DEL,11:15,14:43,88,delayed
+UK794,Vistara,BLR,HYD,15:15,17:34,19,delayed
+UK185,SpiceJet,CCU,BLR,22:30,00:30,0,on-time
+SG612,GoAir,CCU,MAA,22:30,00:30,0,on-time
+6E915,Vistara,DEL,MAA,21:45,23:45,0,on-time
+UK980,IndiGo,AMD,CCU,18:45,20:58,13,delayed
+G8831,SpiceJet,HYD,BOM,14:45,16:45,0,on-time
+G8177,GoAir,PNQ,HYD,14:45,16:12,27,delayed
+G8567,GoAir,PNQ,AMD,20:45,22:45,0,on-time
+AI344,Air India,HYD,BLR,20:30,22:30,0,on-time
+G8648,IndiGo,MAA,HYD,12:15,14:27,12,delayed
+UK702,Vistara,CCU,HYD,09:45,12:46,61,delayed
+6E126,Vistara,BOM,DEL,20:15,22:15,0,on-time
+AI719,SpiceJet,AMD,CCU,15:15,17:15,0,on-time
+6E611,SpiceJet,BLR,HYD,18:15,20:15,0,on-time
+6E508,Vistara,AMD,BOM,06:30,08:59,29,delayed
+G8609,SpiceJet,BOM,BLR,12:45,14:13,28,delayed
+UK334,SpiceJet,BLR,DEL,16:45,18:07,22,delayed
+6E114,GoAir,BLR,AMD,13:45,15:45,0,on-time
+6E422,SpiceJet,DEL,PNQ,12:45,14:45,0,on-time
+AI594,GoAir,DEL,BLR,21:00,23:16,16,delayed
+AI468,Air India,AMD,PNQ,20:00,22:00,0,on-time
+AI622,Air India,AMD,DEL,21:15,00:46,91,delayed
+AI490,Vistara,PNQ,MAA,10:45,12:45,0,on-time
+6E135,IndiGo,BLR,PNQ,13:00,16:51,111,delayed
+UK398,IndiGo,PNQ,CCU,12:00,14:17,17,delayed
+6E326,Vistara,HYD,AMD,05:45,08:10,85,delayed
+AI336,Air India,PNQ,CCU,15:30,17:30,0,on-time
+6E930,SpiceJet,MAA,AMD,14:00,16:00,0,on-time
+AI913,Air India,CCU,PNQ,15:00,17:36,36,delayed
+SG987,IndiGo,BLR,MAA,05:30,07:44,14,delayed
+AI152,Vistara,AMD,CCU,22:00,00:00,0,on-time
+6E878,Vistara,AMD,BLR,08:15,11:42,87,delayed
+6E977,IndiGo,BLR,MAA,07:15,09:15,0,on-time
+G8566,GoAir,BLR,HYD,15:30,17:30,0,on-time
+G8936,GoAir,DEL,CCU,22:45,00:45,0,on-time
+6E181,IndiGo,BLR,HYD,21:15,23:45,30,delayed
+SG514,GoAir,BOM,MAA,12:15,14:24,9,delayed
+UK959,Air India,DEL,BOM,09:15,11:34,19,delayed
+AI160,Air India,HYD,BLR,12:15,14:15,0,on-time
+UK819,GoAir,PNQ,BLR,13:00,15:00,0,on-time
+G8250,IndiGo,CCU,HYD,07:45,09:45,0,on-time
+6E829,Air India,CCU,DEL,06:45,08:45,0,on-time
+AI845,Vistara,DEL,PNQ,18:30,20:30,0,on-time
+UK997,SpiceJet,MAA,PNQ,09:45,11:45,0,on-time
+UK710,GoAir,AMD,DEL,08:15,10:15,0,on-time
+6E553,Vistara,BLR,CCU,15:30,17:30,0,on-time
+SG122,Air India,CCU,PNQ,21:00,23:00,0,on-time
+SG335,GoAir,CCU,HYD,16:30,18:46,16,delayed
+G8937,Vistara,PNQ,BOM,21:30,23:30,0,on-time
+G8289,SpiceJet,PNQ,HYD,11:00,13:07,7,delayed
+G8241,Vistara,AMD,MAA,10:45,12:45,0,on-time
+G8634,Vistara,DEL,CCU,22:45,00:59,14,delayed
+6E212,Vistara,MAA,CCU,11:15,15:58,163,delayed
+G8438,Vistara,DEL,HYD,06:15,08:31,16,delayed
+6E867,Air India,CCU,HYD,22:30,00:26,56,delayed
+SG280,IndiGo,BOM,AMD,22:15,00:15,0,on-time
+SG292,Vistara,BLR,HYD,16:15,18:15,0,on-time
+AI548,IndiGo,AMD,DEL,18:30,22:27,177,delayed
+6E661,GoAir,DEL,BOM,10:15,12:42,27,delayed
+UK961,GoAir,CCU,PNQ,06:15,08:25,10,delayed
+AI274,IndiGo,PNQ,DEL,19:30,21:58,28,delayed
+UK352,GoAir,DEL,PNQ,06:00,08:00,0,on-time
+UK130,GoAir,HYD,BLR,15:30,17:30,0,on-time
+SG400,Vistara,HYD,MAA,18:30,20:30,0,on-time
+AI956,Air India,HYD,CCU,14:45,16:45,0,on-time
+G8897,IndiGo,MAA,CCU,13:30,15:30,0,on-time
+UK636,GoAir,MAA,BOM,15:30,17:30,0,on-time
+6E752,GoAir,DEL,MAA,09:45,11:45,0,on-time
+AI267,GoAir,AMD,MAA,06:30,08:30,0,on-time
+AI408,Air India,PNQ,BLR,05:00,07:08,8,delayed
+G8608,Vistara,BLR,BOM,12:15,14:36,21,delayed
+UK714,SpiceJet,HYD,MAA,14:45,16:45,0,on-time
+AI248,SpiceJet,HYD,BOM,22:00,00:00,0,on-time
+G8731,Vistara,BLR,CCU,05:15,07:15,0,on-time
+UK600,IndiGo,BLR,HYD,05:00,07:00,0,on-time
+UK783,SpiceJet,MAA,AMD,17:15,19:15,0,on-time
+SG953,Vistara,BOM,HYD,20:00,23:50,110,delayed
+UK421,IndiGo,AMD,HYD,06:00,08:00,0,on-time
+G8894,SpiceJet,AMD,HYD,15:15,17:30,15,delayed
+G8328,IndiGo,PNQ,BOM,08:00,10:00,0,on-time
+UK381,GoAir,BLR,MAA,21:30,23:30,0,on-time
+AI901,GoAir,BOM,PNQ,13:30,15:30,0,on-time
+SG790,Vistara,AMD,BOM,18:15,20:35,20,delayed
+G8280,Vistara,AMD,MAA,18:45,20:45,0,on-time
+6E913,SpiceJet,DEL,MAA,15:15,17:37,22,delayed
+6E614,GoAir,BOM,PNQ,13:00,15:12,12,delayed
+6E338,Vistara,DEL,CCU,18:45,20:45,0,on-time
+6E769,Vistara,BLR,PNQ,08:00,10:00,0,on-time
+AI855,SpiceJet,HYD,PNQ,09:30,11:00,30,delayed
+UK144,Air India,AMD,MAA,16:30,18:42,12,delayed
+G8720,IndiGo,HYD,MAA,14:15,16:15,0,on-time
+SG253,SpiceJet,CCU,DEL,19:00,21:12,12,delayed
+AI615,Air India,PNQ,BOM,15:30,17:35,5,delayed
+AI484,SpiceJet,MAA,PNQ,18:00,21:42,102,delayed
+AI983,Vistara,DEL,MAA,05:45,07:45,0,on-time
+G8165,Air India,MAA,BLR,11:45,13:45,0,on-time
+AI700,IndiGo,HYD,DEL,17:00,19:00,0,on-time
+UK246,GoAir,DEL,AMD,06:30,08:30,0,on-time
+AI757,Vistara,BLR,PNQ,07:30,09:30,0,on-time
+G8934,IndiGo,PNQ,MAA,20:15,22:15,0,on-time
+AI274,IndiGo,CCU,MAA,20:45,22:39,54,delayed
+G8508,IndiGo,DEL,BOM,11:45,13:51,6,delayed
+SG861,Air India,CCU,PNQ,06:15,08:15,0,on-time
+AI897,IndiGo,MAA,DEL,17:30,19:55,25,delayed
+G8251,SpiceJet,BOM,DEL,20:30,22:30,0,on-time
+SG243,Air India,PNQ,HYD,19:45,21:45,0,on-time
+UK115,SpiceJet,BOM,CCU,07:00,09:17,17,delayed
+G8658,GoAir,MAA,PNQ,06:00,08:00,0,on-time
+UK367,Air India,AMD,DEL,09:45,11:45,0,on-time
+G8192,Vistara,BLR,HYD,22:00,00:00,0,on-time
+SG194,Vistara,BOM,BLR,05:45,07:45,0,on-time
+G8100,Vistara,BLR,AMD,21:45,23:33,48,delayed
+6E108,IndiGo,AMD,HYD,18:00,20:00,0,on-time
+UK391,Air India,BLR,BOM,12:30,14:30,0,on-time
+SG293,GoAir,HYD,DEL,10:30,12:30,0,on-time
+G8681,GoAir,MAA,BLR,08:30,10:50,20,delayed
+G8314,GoAir,MAA,CCU,22:30,00:30,0,on-time
+SG936,Air India,DEL,BOM,18:15,20:15,0,on-time
+SG576,IndiGo,CCU,DEL,15:00,17:28,28,delayed
+AI921,SpiceJet,BLR,DEL,12:15,14:04,49,delayed
+AI157,SpiceJet,BOM,CCU,07:45,09:45,0,on-time
+AI891,GoAir,DEL,CCU,10:15,12:15,0,on-time
+G8595,GoAir,HYD,MAA,14:30,16:30,0,on-time
+UK195,SpiceJet,BLR,AMD,22:00,01:35,95,delayed
+6E304,IndiGo,HYD,DEL,09:15,11:23,8,delayed
+AI771,GoAir,CCU,BLR,17:45,19:06,21,delayed
+SG963,GoAir,HYD,AMD,13:00,15:00,0,on-time
+UK332,Vistara,PNQ,AMD,17:45,19:45,0,on-time
+6E218,Vistara,MAA,BLR,13:15,15:15,0,on-time
+UK452,SpiceJet,BLR,HYD,22:15,00:15,0,on-time
+AI442,Vistara,DEL,HYD,16:00,18:00,0,on-time
+AI687,SpiceJet,BOM,DEL,08:15,10:39,24,delayed
+UK546,SpiceJet,DEL,BOM,05:30,07:30,0,on-time
+SG407,IndiGo,DEL,MAA,08:45,10:58,13,delayed
+UK998,SpiceJet,BLR,PNQ,10:45,12:45,0,on-time
+6E391,Vistara,CCU,PNQ,16:15,18:15,0,on-time
+SG805,Vistara,AMD,BOM,19:45,21:45,0,on-time
+AI984,GoAir,DEL,MAA,18:00,20:12,12,delayed
+G8837,Air India,BOM,CCU,19:00,21:06,6,delayed
+6E591,GoAir,AMD,HYD,22:30,00:37,7,delayed
+6E138,Vistara,AMD,DEL,05:00,07:00,0,on-time
+AI277,Air India,DEL,AMD,15:45,17:45,0,on-time
+SG809,SpiceJet,CCU,MAA,16:00,19:11,71,delayed
+G8247,SpiceJet,AMD,BOM,08:00,10:09,9,delayed
+G8937,Vistara,AMD,CCU,21:30,23:30,0,on-time
+SG622,Vistara,BOM,HYD,16:45,18:45,0,on-time
+AI718,Air India,AMD,BLR,22:30,00:30,0,on-time
+AI498,Air India,HYD,PNQ,08:30,11:50,80,delayed
+G8382,SpiceJet,DEL,BOM,20:45,22:45,0,on-time
+SG457,IndiGo,AMD,BOM,19:15,21:30,15,delayed
+AI741,GoAir,AMD,MAA,17:15,19:15,0,on-time
+6E412,SpiceJet,DEL,HYD,17:15,19:39,24,delayed
+G8612,GoAir,BLR,PNQ,06:45,08:45,0,on-time
+AI333,GoAir,MAA,HYD,18:30,20:30,0,on-time
+UK961,GoAir,BOM,BLR,13:45,16:09,84,delayed
+6E276,SpiceJet,BOM,AMD,16:15,18:15,0,on-time
+6E528,IndiGo,AMD,MAA,18:15,20:15,0,on-time
+UK559,GoAir,DEL,MAA,16:45,18:45,0,on-time
+6E455,Vistara,DEL,BOM,09:00,11:00,0,on-time
+6E513,Vistara,HYD,BOM,21:30,23:30,0,on-time
+UK484,GoAir,BOM,AMD,16:00,18:00,0,on-time
+SG347,IndiGo,BOM,CCU,20:30,22:30,0,on-time
+SG553,Air India,DEL,CCU,12:45,14:10,25,delayed
+6E851,IndiGo,PNQ,MAA,19:15,21:15,0,on-time
+SG524,IndiGo,BOM,MAA,18:15,20:15,0,on-time
+AI138,GoAir,DEL,HYD,18:30,20:30,0,on-time
+SG658,SpiceJet,PNQ,BLR,05:00,07:53,53,delayed
+SG403,SpiceJet,CCU,BLR,13:00,15:16,16,delayed
+AI416,GoAir,DEL,CCU,06:15,08:15,0,on-time
+AI310,SpiceJet,BOM,HYD,20:30,22:02,32,delayed
+G8993,GoAir,BLR,CCU,12:00,14:20,20,delayed
+UK641,IndiGo,BOM,CCU,12:00,14:00,0,on-time
+G8345,Vistara,CCU,DEL,19:45,21:45,0,on-time
+G8702,Air India,AMD,DEL,16:15,18:34,19,delayed
+AI809,Vistara,PNQ,BOM,14:15,16:28,13,delayed
+SG372,IndiGo,PNQ,DEL,06:00,08:00,0,on-time
+SG358,IndiGo,DEL,MAA,20:00,22:25,25,delayed
+UK470,IndiGo,CCU,MAA,06:15,08:15,0,on-time
+G8318,SpiceJet,BLR,MAA,06:45,08:07,22,delayed
+G8101,GoAir,BLR,MAA,22:45,00:45,0,on-time
+6E696,GoAir,DEL,MAA,20:00,22:50,50,delayed
+G8838,Vistara,DEL,BOM,19:00,21:00,0,on-time
+G8484,GoAir,HYD,MAA,09:45,11:45,0,on-time
+6E290,IndiGo,PNQ,BOM,20:45,23:08,83,delayed
+AI761,SpiceJet,CCU,BOM,19:00,21:00,0,on-time
+UK965,IndiGo,BLR,CCU,22:00,00:00,0,on-time
+UK712,IndiGo,BOM,DEL,07:45,09:45,0,on-time
+G8494,IndiGo,PNQ,BLR,15:15,17:15,0,on-time
+G8674,Vistara,BLR,DEL,09:45,11:45,0,on-time
+SG209,GoAir,CCU,DEL,19:45,21:04,19,delayed
+AI109,Air India,CCU,BOM,07:30,09:30,0,on-time
+AI509,SpiceJet,BOM,BLR,17:15,19:51,36,delayed
+G8181,Vistara,HYD,BLR,11:15,13:29,14,delayed
+G8514,GoAir,AMD,PNQ,16:00,18:44,44,delayed
+G8769,Air India,PNQ,AMD,20:45,22:18,33,delayed
+G8763,Vistara,DEL,AMD,18:45,20:14,29,delayed
+UK361,Air India,DEL,MAA,19:00,21:20,20,delayed
+UK579,Vistara,DEL,BOM,05:00,07:00,0,on-time
+AI548,Vistara,BLR,PNQ,20:00,22:00,0,on-time
+UK864,Vistara,DEL,BOM,21:45,23:45,0,on-time
+6E509,Air India,PNQ,BLR,12:45,16:08,143,cancelled
+AI319,Air India,PNQ,BOM,15:00,17:00,0,on-time
+AI571,Air India,PNQ,CCU,22:30,00:30,0,on-time
+UK609,GoAir,BOM,DEL,19:30,22:52,82,delayed
+UK889,SpiceJet,PNQ,DEL,12:30,14:41,11,delayed
+6E598,Air India,MAA,PNQ,12:45,14:45,0,on-time
+SG128,GoAir,MAA,CCU,09:00,11:19,19,delayed
+6E560,GoAir,AMD,MAA,21:00,00:20,80,delayed
+6E486,SpiceJet,PNQ,BOM,10:30,12:30,0,on-time
+AI687,Vistara,BLR,BOM,09:45,11:45,0,on-time
+AI232,GoAir,PNQ,BOM,21:30,23:30,0,on-time
+AI265,GoAir,BOM,DEL,13:45,15:45,0,on-time
+AI620,IndiGo,BOM,BLR,13:45,15:45,0,on-time
+6E575,GoAir,DEL,PNQ,13:15,15:15,0,on-time
+UK402,SpiceJet,BOM,BLR,05:00,07:00,0,on-time
+SG694,GoAir,AMD,BLR,14:00,16:00,0,on-time
+6E348,SpiceJet,DEL,BOM,11:00,13:00,0,on-time
+UK734,SpiceJet,PNQ,BOM,12:30,14:30,0,on-time
+6E795,IndiGo,AMD,DEL,19:30,21:30,0,on-time
+6E511,SpiceJet,CCU,PNQ,21:45,23:58,13,delayed
+G8673,GoAir,MAA,BOM,22:45,00:45,0,on-time
+6E538,SpiceJet,BLR,DEL,10:00,12:00,0,on-time
+6E756,SpiceJet,AMD,HYD,15:15,17:28,13,delayed
+G8283,SpiceJet,AMD,PNQ,05:30,07:30,0,on-time
+G8422,Air India,PNQ,AMD,15:45,17:57,12,delayed
+AI332,Vistara,HYD,AMD,21:15,23:15,0,on-time
+G8817,IndiGo,CCU,AMD,21:15,23:15,0,on-time
+UK995,Air India,BLR,HYD,18:00,20:00,0,on-time
+G8278,GoAir,BOM,HYD,10:00,12:00,0,on-time
+G8402,GoAir,HYD,PNQ,18:15,20:15,0,on-time
+6E793,Air India,DEL,PNQ,05:15,07:15,0,on-time
+UK959,IndiGo,DEL,BLR,12:30,14:30,0,on-time
+6E628,Air India,MAA,AMD,18:45,20:45,0,on-time
+UK986,IndiGo,AMD,MAA,22:45,00:45,0,on-time
+G8503,IndiGo,CCU,PNQ,12:30,14:30,0,on-time
+AI921,IndiGo,BOM,BLR,15:15,17:15,0,on-time
+SG144,IndiGo,HYD,CCU,18:45,20:45,0,on-time
+AI238,SpiceJet,BLR,PNQ,09:15,11:27,12,delayed
+SG588,GoAir,CCU,BOM,11:15,13:15,0,on-time
+SG582,Vistara,DEL,MAA,07:15,09:26,11,delayed
+UK307,SpiceJet,HYD,DEL,08:00,10:16,16,delayed
+AI922,SpiceJet,AMD,BOM,22:30,01:36,66,delayed
+SG229,Vistara,CCU,MAA,21:15,23:15,0,on-time
+G8134,SpiceJet,HYD,PNQ,06:15,08:15,0,on-time
+SG452,Vistara,BLR,MAA,11:30,13:30,0,on-time
+AI244,GoAir,PNQ,HYD,21:30,00:46,76,delayed
+AI914,Air India,DEL,PNQ,07:45,09:28,43,delayed
+G8460,GoAir,BLR,HYD,09:45,11:13,28,delayed
+6E918,IndiGo,DEL,CCU,08:30,11:34,64,delayed
+SG234,Air India,AMD,HYD,16:30,18:46,16,delayed
+UK455,IndiGo,BLR,AMD,13:00,15:00,0,on-time
+6E768,Vistara,BLR,PNQ,20:30,22:50,20,delayed
+UK576,IndiGo,BLR,BOM,14:00,16:00,0,on-time
+6E213,GoAir,HYD,AMD,14:30,16:30,0,on-time
+6E507,SpiceJet,DEL,BLR,18:30,20:36,6,delayed
+UK813,SpiceJet,HYD,BOM,09:45,11:55,10,delayed
+SG242,SpiceJet,MAA,HYD,20:15,22:15,0,on-time
+SG727,IndiGo,CCU,PNQ,10:00,12:00,0,on-time
+UK791,Vistara,AMD,CCU,09:45,11:45,0,on-time
+UK780,Vistara,HYD,BOM,13:00,15:00,0,on-time
+6E265,SpiceJet,BOM,HYD,16:30,18:30,0,on-time
+UK681,SpiceJet,AMD,PNQ,06:00,08:00,0,on-time
+UK754,GoAir,PNQ,HYD,22:15,00:22,7,delayed
+6E191,IndiGo,BOM,AMD,22:45,00:45,0,on-time
+6E785,Vistara,DEL,MAA,11:00,13:00,0,on-time
+G8503,Air India,PNQ,AMD,10:30,12:30,0,on-time
+G8499,SpiceJet,CCU,PNQ,16:15,18:21,6,delayed
+AI875,SpiceJet,PNQ,BLR,15:30,18:30,60,delayed
+6E203,SpiceJet,MAA,AMD,15:00,17:00,0,on-time
+G8229,GoAir,MAA,HYD,11:00,13:27,27,delayed
+6E675,IndiGo,HYD,CCU,12:45,14:45,0,on-time
+AI850,GoAir,BOM,CCU,17:00,19:00,0,on-time
+6E302,Air India,PNQ,BLR,16:00,18:00,0,on-time
+6E889,SpiceJet,BLR,PNQ,21:15,23:15,0,on-time
+UK937,SpiceJet,DEL,AMD,06:30,08:53,23,delayed
+AI463,GoAir,HYD,AMD,07:45,09:45,0,on-time
+G8113,Air India,BLR,DEL,15:15,17:15,0,on-time
+SG208,Vistara,AMD,BOM,08:00,10:00,0,on-time
+UK897,IndiGo,BOM,CCU,09:30,11:00,30,delayed
+AI372,GoAir,HYD,CCU,17:00,19:00,0,on-time
+UK635,Air India,HYD,BOM,09:45,11:57,12,delayed
+6E506,IndiGo,DEL,AMD,14:45,16:45,0,on-time
+UK635,GoAir,BOM,HYD,11:00,13:22,22,delayed
+6E211,GoAir,DEL,PNQ,17:15,19:15,0,on-time
+UK164,Vistara,PNQ,BOM,18:00,20:00,0,on-time
+AI199,GoAir,MAA,HYD,15:30,17:58,28,delayed
+SG987,IndiGo,HYD,BOM,12:30,14:30,0,on-time
+G8348,Vistara,MAA,BLR,12:15,14:15,0,on-time
+SG818,GoAir,HYD,CCU,18:45,20:51,6,delayed
+SG900,IndiGo,PNQ,BOM,12:00,14:00,0,on-time
+AI198,SpiceJet,BLR,DEL,16:00,18:00,0,on-time
+AI656,Vistara,CCU,MAA,19:45,21:39,54,delayed
+6E923,GoAir,PNQ,BOM,15:30,17:30,0,on-time
+SG881,SpiceJet,HYD,AMD,15:30,17:53,23,delayed
+UK389,SpiceJet,HYD,CCU,09:15,11:34,19,delayed
+AI257,Air India,PNQ,BLR,12:00,14:06,6,delayed
+G8913,Air India,DEL,BOM,10:45,12:45,0,on-time
+SG819,SpiceJet,MAA,CCU,13:45,15:08,23,delayed
+UK448,IndiGo,AMD,BLR,05:00,07:00,0,on-time
+SG519,IndiGo,AMD,BOM,13:30,15:30,0,on-time
+SG184,IndiGo,HYD,BOM,15:30,17:53,23,delayed
+G8137,IndiGo,HYD,DEL,20:45,22:00,15,delayed
+AI461,SpiceJet,AMD,BOM,20:00,22:00,0,on-time
+AI604,GoAir,MAA,PNQ,22:15,00:15,0,on-time
+AI105,IndiGo,DEL,MAA,15:30,17:26,56,delayed
+AI299,GoAir,HYD,DEL,17:00,19:06,6,delayed
+G8401,IndiGo,BOM,AMD,14:15,16:15,0,on-time
+G8818,Air India,BLR,BOM,18:00,20:00,0,on-time
+SG139,IndiGo,PNQ,HYD,06:30,08:43,13,delayed
+6E442,GoAir,DEL,PNQ,09:00,13:39,159,cancelled
+SG939,GoAir,AMD,CCU,08:00,10:09,9,delayed
+UK726,SpiceJet,HYD,DEL,16:00,18:35,35,delayed
+AI469,IndiGo,HYD,DEL,22:30,00:14,44,delayed
+AI117,IndiGo,PNQ,BOM,16:00,18:05,5,delayed
+G8260,Air India,HYD,BLR,12:45,14:45,0,on-time
+SG932,SpiceJet,DEL,HYD,22:30,00:38,8,delayed
+G8629,Air India,PNQ,BOM,15:30,17:30,0,on-time
+6E911,Vistara,PNQ,HYD,06:00,08:00,0,on-time
+UK821,Vistara,BOM,MAA,15:15,17:29,14,delayed
+6E185,IndiGo,PNQ,DEL,11:00,13:06,6,delayed
+6E365,IndiGo,DEL,AMD,09:15,11:15,0,on-time
+AI277,IndiGo,BOM,CCU,13:30,17:42,132,delayed
+AI999,IndiGo,CCU,AMD,05:00,07:00,0,on-time
+SG119,Vistara,MAA,BOM,09:45,11:10,25,delayed
+UK356,GoAir,HYD,BOM,10:00,12:05,5,delayed
+G8885,IndiGo,MAA,HYD,14:00,16:08,8,delayed
+G8511,Air India,AMD,HYD,18:30,20:30,0,on-time
+SG636,IndiGo,CCU,HYD,18:45,20:45,0,on-time
+SG881,GoAir,CCU,DEL,07:15,09:15,0,on-time
+AI207,Vistara,BLR,BOM,14:15,16:15,0,on-time
+AI734,GoAir,HYD,BLR,11:30,13:30,0,on-time
+G8333,Vistara,CCU,AMD,17:30,19:30,0,on-time
+6E869,SpiceJet,HYD,BOM,22:30,00:30,0,on-time
+AI629,IndiGo,BOM,MAA,11:45,14:10,85,delayed
+UK492,Vistara,DEL,CCU,10:00,12:15,15,delayed
+6E777,GoAir,HYD,PNQ,17:00,19:00,0,on-time
+SG823,Vistara,MAA,PNQ,11:15,13:36,21,delayed
+G8222,IndiGo,CCU,AMD,15:45,17:45,0,on-time
+G8209,Air India,MAA,BOM,08:30,11:44,74,delayed
+6E668,Vistara,DEL,PNQ,17:00,19:42,42,delayed
+G8279,GoAir,BOM,BLR,21:00,23:00,0,on-time
+G8233,IndiGo,BOM,PNQ,18:15,20:15,0,on-time
+G8306,SpiceJet,PNQ,CCU,21:30,23:30,0,on-time
+G8809,GoAir,BOM,PNQ,13:00,15:00,0,on-time
+SG661,SpiceJet,MAA,CCU,05:45,07:11,26,delayed
+SG710,IndiGo,AMD,DEL,09:45,11:45,0,on-time
+AI413,Vistara,AMD,HYD,13:15,15:15,0,on-time
+SG649,GoAir,PNQ,HYD,15:00,17:00,0,on-time
+G8419,Air India,AMD,PNQ,10:00,12:07,7,delayed
+G8215,SpiceJet,CCU,BLR,07:45,09:52,7,delayed
+SG997,IndiGo,HYD,PNQ,06:00,08:00,0,on-time
+UK652,SpiceJet,PNQ,CCU,12:15,14:38,23,delayed
+SG830,SpiceJet,PNQ,HYD,21:45,23:45,0,on-time
+AI563,Vistara,BLR,AMD,05:15,07:44,29,delayed
+UK616,GoAir,CCU,AMD,17:00,19:16,16,delayed
+G8749,Vistara,AMD,CCU,12:45,14:45,0,on-time
+AI933,IndiGo,DEL,AMD,10:45,12:45,0,on-time
+AI895,IndiGo,BLR,DEL,14:00,16:23,23,delayed
+6E903,Vistara,DEL,AMD,20:00,22:00,0,on-time
+6E595,SpiceJet,BOM,PNQ,05:30,07:30,0,on-time
+AI293,Air India,CCU,BOM,15:00,17:00,0,on-time
+SG950,Vistara,DEL,PNQ,07:15,09:33,18,delayed
+G8479,IndiGo,DEL,BLR,21:00,23:00,0,on-time
+SG454,IndiGo,HYD,BLR,19:45,21:45,0,on-time
+6E129,Vistara,BLR,BOM,19:45,21:45,0,on-time
+SG849,Air India,AMD,CCU,17:30,19:30,0,on-time
+SG650,GoAir,DEL,HYD,21:15,23:15,0,on-time
+AI843,SpiceJet,BLR,BOM,21:30,23:30,0,on-time
+G8674,Air India,BLR,PNQ,22:30,00:30,0,on-time
+G8385,IndiGo,CCU,HYD,16:30,18:30,0,on-time
+SG472,Air India,PNQ,CCU,06:00,09:05,65,delayed
+G8786,IndiGo,PNQ,BLR,07:30,09:53,23,delayed
+AI382,Air India,HYD,DEL,09:45,11:45,0,on-time
+6E937,IndiGo,MAA,DEL,13:45,15:05,20,delayed
+UK143,Air India,HYD,MAA,21:15,23:30,15,delayed
+AI668,IndiGo,BOM,HYD,12:15,15:39,84,delayed
+AI222,Vistara,DEL,MAA,21:15,23:45,30,delayed
+G8536,SpiceJet,AMD,BLR,20:45,22:45,0,on-time
+6E663,GoAir,MAA,PNQ,20:00,00:05,125,delayed
+SG868,Vistara,MAA,DEL,15:00,17:00,0,on-time
+SG361,GoAir,CCU,DEL,09:00,11:00,0,on-time
+AI404,Air India,PNQ,BLR,19:00,21:15,15,delayed
+6E406,Air India,BLR,DEL,05:15,07:15,0,on-time
+G8656,IndiGo,PNQ,HYD,19:00,21:40,40,delayed
+AI260,Vistara,HYD,MAA,09:30,11:30,0,on-time
+SG504,Vistara,HYD,PNQ,21:00,23:00,0,on-time
+SG948,IndiGo,BOM,DEL,10:30,12:40,10,delayed
+AI227,Vistara,PNQ,BOM,13:15,15:15,0,on-time
+UK833,SpiceJet,BLR,DEL,07:15,09:21,6,delayed
+6E884,SpiceJet,HYD,BLR,19:15,21:41,26,delayed
+AI288,Vistara,AMD,CCU,08:00,10:00,0,on-time
+6E480,IndiGo,CCU,PNQ,21:15,23:10,55,delayed
+G8455,Vistara,CCU,HYD,22:45,00:45,0,on-time
+AI357,Vistara,HYD,BLR,17:00,19:00,0,on-time
+6E293,GoAir,AMD,HYD,10:00,12:00,0,on-time
+6E430,GoAir,MAA,BOM,05:30,07:30,0,on-time
+UK170,Air India,AMD,BOM,18:30,20:00,30,delayed
+G8701,SpiceJet,CCU,AMD,12:00,14:00,0,on-time
+SG696,IndiGo,MAA,PNQ,21:45,23:45,0,on-time
+UK440,Vistara,DEL,BOM,08:00,10:00,0,on-time
+G8377,GoAir,DEL,AMD,08:30,12:16,166,delayed
+UK458,Vistara,BOM,PNQ,14:00,16:25,25,delayed
+SG970,Vistara,BOM,BLR,18:15,21:54,99,delayed
+UK305,Air India,DEL,HYD,19:00,21:00,0,on-time
+6E294,Air India,BLR,CCU,21:30,23:30,0,on-time
+6E151,SpiceJet,DEL,MAA,10:30,12:05,35,delayed
+UK839,Vistara,HYD,DEL,06:30,08:00,30,delayed
+AI289,Air India,CCU,BLR,17:15,19:15,0,on-time
+AI129,Vistara,AMD,MAA,14:00,16:00,0,on-time
+G8336,IndiGo,DEL,CCU,18:15,20:21,6,delayed
+G8400,SpiceJet,AMD,MAA,07:30,10:52,82,delayed
+SG744,IndiGo,MAA,CCU,14:30,16:30,0,on-time
+SG890,SpiceJet,BLR,MAA,18:30,20:30,0,on-time
+6E326,SpiceJet,MAA,DEL,09:15,11:15,0,on-time
+G8665,SpiceJet,PNQ,DEL,10:00,12:00,0,on-time
+AI997,SpiceJet,HYD,BLR,09:00,11:00,0,on-time
+UK301,IndiGo,PNQ,HYD,08:15,10:06,51,delayed
+G8597,GoAir,AMD,CCU,19:00,21:00,0,on-time
+G8451,SpiceJet,MAA,CCU,15:45,17:55,10,delayed
+UK699,Air India,PNQ,DEL,05:30,07:30,0,on-time
+G8239,IndiGo,MAA,HYD,17:00,19:00,0,on-time
+UK637,GoAir,DEL,PNQ,18:00,20:00,0,on-time
+G8408,SpiceJet,DEL,BOM,17:15,20:43,88,delayed
+SG535,GoAir,DEL,PNQ,17:15,19:15,0,on-time
+UK357,IndiGo,HYD,DEL,05:15,07:15,0,on-time
+UK674,IndiGo,BOM,PNQ,09:00,11:19,19,delayed
+SG133,Air India,HYD,CCU,06:00,08:07,7,delayed
+SG147,SpiceJet,CCU,AMD,13:15,15:15,0,on-time
+AI222,SpiceJet,PNQ,BOM,09:30,11:30,0,on-time
+SG919,Vistara,PNQ,AMD,17:15,20:55,100,delayed
+SG563,GoAir,CCU,PNQ,05:30,07:30,0,on-time
+UK325,IndiGo,CCU,PNQ,09:00,11:11,11,delayed
+UK982,IndiGo,DEL,MAA,14:45,16:45,0,on-time
+UK848,IndiGo,BOM,AMD,14:30,16:30,0,on-time
+6E280,Vistara,MAA,PNQ,11:15,13:15,0,on-time
+UK571,SpiceJet,PNQ,CCU,21:45,23:45,0,on-time
+G8703,Vistara,AMD,MAA,08:45,10:15,30,delayed
+6E521,IndiGo,CCU,MAA,22:00,00:00,0,on-time
+G8559,Air India,AMD,BLR,05:30,07:30,0,on-time
+AI547,IndiGo,MAA,DEL,07:00,09:29,29,delayed
+6E738,Vistara,PNQ,BOM,08:00,10:00,0,on-time
+AI874,GoAir,BLR,BOM,08:15,10:15,0,on-time
+SG198,IndiGo,PNQ,AMD,19:15,21:15,0,on-time
+SG981,Air India,BOM,BLR,18:45,20:57,12,delayed
+AI850,GoAir,DEL,HYD,07:45,09:45,0,on-time
+SG239,Air India,BLR,CCU,05:45,07:45,0,on-time
+G8461,SpiceJet,CCU,AMD,11:45,13:45,0,on-time
+6E822,GoAir,CCU,PNQ,19:45,21:11,26,delayed
+AI513,SpiceJet,DEL,BLR,18:45,21:13,88,delayed
+AI844,Vistara,PNQ,DEL,22:15,00:29,14,delayed
+SG429,Vistara,PNQ,DEL,09:00,11:00,0,on-time
+6E383,Air India,HYD,DEL,09:45,11:45,0,on-time
+6E145,Vistara,BLR,HYD,06:15,08:15,0,on-time
+AI930,SpiceJet,HYD,CCU,14:00,16:05,5,delayed
+6E411,Vistara,CCU,BOM,09:45,11:45,0,on-time
+SG927,SpiceJet,BLR,PNQ,12:00,14:00,0,on-time
+AI538,SpiceJet,DEL,CCU,09:45,11:45,0,on-time
+AI743,SpiceJet,PNQ,DEL,15:15,17:15,0,on-time
+G8815,Vistara,HYD,AMD,16:45,19:56,71,delayed
+G8517,GoAir,CCU,BLR,17:15,19:26,11,delayed
+SG139,Air India,PNQ,HYD,13:30,15:30,0,on-time
+SG831,IndiGo,AMD,CCU,13:15,15:15,0,on-time
+UK750,GoAir,BLR,BOM,16:00,18:00,0,on-time
+6E111,SpiceJet,AMD,HYD,20:15,22:15,0,on-time
+SG967,SpiceJet,DEL,PNQ,22:15,00:37,22,delayed
+UK627,IndiGo,BLR,BOM,08:15,10:15,0,on-time
+G8638,IndiGo,AMD,PNQ,07:30,09:12,42,delayed
+G8667,Vistara,DEL,AMD,21:45,00:49,64,delayed
+6E967,GoAir,PNQ,CCU,12:15,14:15,0,on-time
+SG685,IndiGo,BLR,PNQ,20:30,22:35,5,delayed
+UK953,Vistara,DEL,PNQ,09:45,11:45,0,on-time
+G8136,GoAir,AMD,CCU,20:15,22:15,0,on-time
+SG938,GoAir,BLR,DEL,17:00,19:00,0,on-time
+SG775,GoAir,BOM,MAA,19:00,21:40,40,delayed
+AI504,GoAir,MAA,BOM,12:45,14:15,30,delayed
+AI102,SpiceJet,HYD,CCU,12:45,14:45,0,on-time
+AI365,Air India,PNQ,AMD,21:15,23:27,12,delayed
+G8198,Vistara,CCU,BLR,07:15,09:15,0,on-time
+AI834,IndiGo,CCU,BLR,10:00,12:00,0,on-time
+SG644,Air India,AMD,BLR,07:15,09:15,0,on-time
+SG655,IndiGo,MAA,HYD,21:15,23:15,0,on-time
+UK650,Vistara,MAA,CCU,06:30,08:30,0,on-time
+G8330,IndiGo,BOM,DEL,19:45,21:45,0,on-time
+SG970,SpiceJet,HYD,BOM,08:45,10:57,12,delayed
+UK273,SpiceJet,BOM,AMD,15:15,17:15,0,on-time
+G8560,Vistara,DEL,HYD,10:45,12:45,0,on-time
+6E610,GoAir,AMD,PNQ,14:30,16:46,16,delayed
+G8243,Air India,DEL,CCU,16:30,18:00,30,delayed
+UK503,Air India,BLR,DEL,07:45,10:56,71,delayed
+G8539,IndiGo,HYD,AMD,08:45,10:45,0,on-time
+6E757,Air India,BLR,DEL,19:45,21:45,0,on-time
+SG920,SpiceJet,MAA,AMD,16:30,18:30,0,on-time
+AI500,SpiceJet,HYD,BOM,17:45,21:14,149,delayed
+SG967,GoAir,CCU,HYD,14:15,16:33,18,delayed
+SG813,IndiGo,AMD,BLR,21:30,23:30,0,on-time
+6E315,GoAir,HYD,BOM,13:00,15:35,35,delayed
+G8390,Air India,DEL,BLR,07:15,09:08,53,delayed
+UK314,Air India,PNQ,MAA,05:45,07:44,59,delayed
+G8120,Vistara,HYD,AMD,09:15,11:15,0,on-time
+AI628,SpiceJet,MAA,BLR,11:15,13:22,7,delayed
+6E498,Air India,PNQ,BOM,20:45,23:48,63,delayed
+G8124,GoAir,MAA,DEL,08:00,10:00,0,on-time
+6E859,SpiceJet,DEL,MAA,09:45,12:35,110,delayed
+SG602,GoAir,AMD,CCU,19:00,21:00,0,on-time
+SG335,Air India,HYD,CCU,10:30,12:30,0,on-time
+UK723,IndiGo,MAA,AMD,10:15,12:15,0,on-time
+6E519,IndiGo,DEL,AMD,22:45,00:06,21,delayed
+6E662,Air India,HYD,AMD,08:15,10:15,0,on-time
+AI306,Air India,PNQ,HYD,06:00,09:25,85,delayed
+G8401,Air India,BLR,AMD,06:45,08:58,13,delayed
+SG705,GoAir,BOM,BLR,15:15,17:15,0,on-time
+SG369,SpiceJet,AMD,MAA,07:30,10:35,65,delayed
+SG322,GoAir,BLR,CCU,11:45,13:14,29,delayed
+SG621,Air India,AMD,BLR,15:30,17:30,0,on-time
+AI929,Air India,PNQ,DEL,18:15,20:15,0,on-time
+G8444,SpiceJet,AMD,BLR,05:45,07:45,0,on-time
+UK840,Air India,CCU,PNQ,11:45,13:45,0,on-time
+SG635,SpiceJet,CCU,BLR,18:15,20:29,14,delayed
+G8626,Air India,MAA,BOM,13:15,15:15,0,on-time
+UK936,IndiGo,PNQ,HYD,07:30,09:42,12,delayed
+AI288,Vistara,MAA,HYD,22:30,00:30,0,on-time
+AI696,GoAir,AMD,BLR,16:30,18:30,0,on-time
+AI657,IndiGo,HYD,BLR,11:30,13:30,0,on-time
+SG619,Air India,AMD,HYD,11:30,13:30,0,on-time
+SG475,Vistara,AMD,DEL,12:15,14:15,0,on-time
+SG792,SpiceJet,HYD,CCU,06:45,08:50,5,delayed
+G8885,Vistara,DEL,CCU,17:30,19:30,0,on-time
+6E630,Vistara,MAA,BLR,21:30,23:30,0,on-time
+AI269,SpiceJet,BLR,DEL,17:15,19:15,0,on-time
+G8430,GoAir,AMD,HYD,16:00,18:00,0,on-time
+6E151,IndiGo,HYD,BOM,14:00,16:00,0,on-time
+AI641,Vistara,HYD,AMD,16:15,18:25,10,delayed
+6E222,GoAir,PNQ,BOM,12:15,14:57,42,delayed
+6E130,SpiceJet,PNQ,MAA,12:30,14:30,0,on-time
+UK750,SpiceJet,MAA,BOM,15:00,18:00,60,delayed
+6E809,GoAir,BOM,BLR,05:15,07:15,0,on-time
+G8808,SpiceJet,PNQ,AMD,14:45,17:45,60,delayed
+6E727,Air India,CCU,AMD,19:45,21:59,14,delayed
+6E279,IndiGo,MAA,PNQ,22:30,00:30,0,on-time
+SG850,GoAir,HYD,BLR,12:00,14:23,23,delayed
+6E637,SpiceJet,HYD,PNQ,15:00,17:32,32,delayed
+UK777,Vistara,MAA,AMD,13:30,17:16,166,delayed
+SG640,GoAir,PNQ,BLR,18:00,23:00,180,delayed
+AI972,Vistara,CCU,BOM,11:00,14:01,61,delayed
+SG539,SpiceJet,CCU,DEL,11:30,13:48,18,delayed
+6E668,Air India,PNQ,BOM,09:00,11:00,0,on-time
+UK285,GoAir,HYD,CCU,12:30,14:30,0,on-time
+UK239,Vistara,BLR,DEL,08:00,11:23,83,delayed
+UK482,IndiGo,BLR,AMD,07:45,09:45,0,on-time
+G8627,SpiceJet,HYD,DEL,13:00,15:39,39,delayed
+UK921,GoAir,MAA,PNQ,15:45,17:45,0,on-time
+AI870,Air India,DEL,BOM,06:15,10:58,163,delayed
+AI382,Vistara,MAA,AMD,08:45,10:53,8,delayed
+G8946,SpiceJet,HYD,AMD,06:15,08:15,0,on-time
+SG506,Air India,AMD,MAA,09:45,11:15,30,delayed
+UK140,Vistara,CCU,HYD,19:15,21:28,13,delayed
+SG906,GoAir,AMD,PNQ,05:00,07:00,0,on-time
+G8336,Air India,HYD,CCU,13:15,15:15,0,on-time
+AI536,Air India,CCU,DEL,21:00,23:00,0,on-time
+6E236,SpiceJet,AMD,HYD,18:30,20:30,0,on-time
+UK804,IndiGo,CCU,HYD,20:15,22:42,27,delayed
+6E687,Vistara,HYD,MAA,08:45,10:45,0,on-time
+G8958,IndiGo,AMD,BOM,08:30,10:30,0,on-time
+AI146,Vistara,MAA,DEL,07:45,09:07,22,delayed
+G8790,GoAir,HYD,PNQ,08:45,10:10,25,delayed
+UK923,IndiGo,AMD,PNQ,20:30,22:22,52,delayed
+AI387,Air India,HYD,BOM,17:30,21:07,157,delayed
+UK150,Vistara,MAA,PNQ,08:45,10:45,0,on-time
+G8764,GoAir,AMD,HYD,14:30,18:21,171,cancelled
+UK410,Vistara,AMD,BOM,16:45,19:53,68,delayed
+G8392,SpiceJet,CCU,BLR,08:15,10:15,0,on-time
+UK227,IndiGo,HYD,AMD,16:30,18:36,6,delayed
+G8830,GoAir,CCU,PNQ,05:15,07:32,17,delayed
+6E905,GoAir,DEL,BLR,12:00,14:42,42,delayed
+SG889,SpiceJet,BLR,DEL,14:15,17:40,85,delayed
+G8420,Vistara,BLR,BOM,08:45,12:31,166,cancelled
+6E483,Vistara,DEL,CCU,07:15,09:53,38,delayed
+SG772,IndiGo,PNQ,BOM,12:45,14:45,0,on-time
+G8307,Air India,PNQ,BOM,07:00,09:00,0,on-time
+6E461,GoAir,DEL,AMD,06:30,08:57,27,delayed
+AI185,IndiGo,BOM,DEL,11:15,13:32,17,delayed
+AI983,IndiGo,BLR,CCU,06:30,08:30,0,on-time
+SG391,IndiGo,PNQ,AMD,17:30,19:45,15,delayed
+SG108,SpiceJet,BOM,AMD,20:00,22:00,0,on-time
+G8402,SpiceJet,HYD,MAA,11:00,13:37,37,delayed
+UK789,Vistara,MAA,BLR,21:45,23:58,13,delayed
+UK925,Vistara,DEL,HYD,19:00,21:00,0,on-time
+AI412,Air India,HYD,CCU,16:15,18:15,0,on-time
+SG349,SpiceJet,CCU,DEL,06:15,08:15,0,on-time
+UK211,IndiGo,DEL,MAA,14:15,16:15,0,on-time
+AI533,GoAir,BOM,PNQ,05:00,07:00,0,on-time
+SG240,GoAir,BLR,MAA,07:00,09:00,0,on-time
+SG112,Air India,BLR,AMD,15:15,17:23,8,delayed
+AI957,GoAir,AMD,BOM,05:15,07:15,0,on-time
+6E248,SpiceJet,CCU,AMD,15:30,17:30,0,on-time
+6E177,IndiGo,PNQ,MAA,11:00,13:13,13,delayed
+SG144,GoAir,BLR,DEL,21:15,23:15,0,on-time
+G8905,Air India,AMD,DEL,20:00,22:14,14,delayed
+6E129,SpiceJet,MAA,BOM,21:00,23:00,0,on-time
+UK969,GoAir,BOM,DEL,10:15,12:43,28,delayed
+G8394,Vistara,BLR,BOM,19:30,21:30,0,on-time
+SG702,Air India,MAA,BLR,08:00,10:00,0,on-time
+G8772,Air India,BOM,CCU,20:00,22:00,0,on-time
+6E332,GoAir,BLR,HYD,16:30,18:35,5,delayed
+G8111,Vistara,BOM,DEL,22:45,00:54,9,delayed
+SG669,Air India,AMD,BLR,06:00,08:00,0,on-time
+6E457,Vistara,MAA,DEL,07:00,09:00,0,on-time
+SG897,IndiGo,DEL,CCU,13:45,15:45,0,on-time
+6E295,SpiceJet,BLR,AMD,09:45,11:45,0,on-time
+SG128,IndiGo,MAA,DEL,20:15,23:14,119,delayed
+SG273,Air India,BOM,DEL,10:30,12:30,0,on-time
+G8266,SpiceJet,BLR,PNQ,20:00,22:10,10,delayed
+G8456,Air India,BLR,AMD,22:00,00:33,33,delayed
+G8847,IndiGo,PNQ,BLR,08:30,10:30,0,on-time
+UK907,GoAir,BOM,AMD,05:15,08:38,83,delayed
+SG753,SpiceJet,BLR,DEL,12:00,14:47,47,delayed
+G8310,Air India,AMD,BOM,18:15,20:57,42,delayed
+UK896,IndiGo,CCU,MAA,15:45,17:45,0,on-time
+6E304,GoAir,BLR,DEL,16:15,18:25,10,delayed
+UK821,SpiceJet,BOM,PNQ,07:45,09:45,0,on-time
+AI255,SpiceJet,MAA,CCU,22:30,00:30,0,on-time
+UK216,Air India,AMD,BOM,21:15,23:15,0,on-time
+SG725,Vistara,BOM,CCU,16:15,18:41,26,delayed
+G8981,Air India,HYD,AMD,20:00,22:00,0,on-time
+G8695,GoAir,AMD,BOM,05:00,07:00,0,on-time
+UK346,IndiGo,CCU,AMD,05:15,07:36,21,delayed
+G8535,IndiGo,BLR,DEL,19:00,21:17,17,delayed
+G8391,IndiGo,MAA,HYD,09:30,11:30,0,on-time
+AI919,SpiceJet,DEL,PNQ,08:45,10:06,21,delayed
+UK221,GoAir,CCU,BLR,09:45,11:45,0,on-time
+6E119,IndiGo,CCU,HYD,06:00,10:25,145,delayed
+AI881,Vistara,BLR,PNQ,20:00,00:31,151,cancelled
+SG270,Vistara,AMD,BOM,09:15,11:15,0,on-time
+UK552,Vistara,CCU,BLR,14:15,16:36,21,delayed
+SG938,Vistara,DEL,BOM,11:00,13:00,0,on-time
+6E369,Vistara,AMD,BLR,15:15,17:15,0,on-time
+UK995,Vistara,DEL,BLR,08:45,10:45,0,on-time
+UK981,Vistara,PNQ,AMD,22:30,00:40,10,delayed
+SG702,SpiceJet,AMD,CCU,16:45,18:45,0,on-time
+G8107,SpiceJet,BOM,BLR,12:30,14:30,0,on-time
+AI369,GoAir,BLR,MAA,20:15,22:15,0,on-time
+SG677,Vistara,MAA,CCU,06:15,08:40,25,delayed
+SG607,GoAir,MAA,DEL,10:45,12:45,0,on-time
+SG356,GoAir,BLR,HYD,21:30,23:30,0,on-time
+AI296,Air India,BOM,CCU,17:00,19:00,0,on-time
+6E642,IndiGo,PNQ,DEL,12:15,14:01,46,delayed
+SG935,SpiceJet,BOM,HYD,12:15,14:15,0,on-time
+SG909,Vistara,CCU,MAA,22:15,00:23,8,delayed
+SG292,Vistara,BOM,CCU,13:30,15:07,37,delayed
+G8940,GoAir,CCU,DEL,13:30,15:30,0,on-time
+6E760,GoAir,HYD,MAA,06:30,08:30,0,on-time
+SG214,Air India,BLR,HYD,10:30,12:30,0,on-time
+AI772,Vistara,DEL,HYD,10:15,14:14,179,delayed
+6E653,SpiceJet,PNQ,DEL,18:45,20:45,0,on-time
+AI206,SpiceJet,HYD,BLR,10:45,14:58,133,cancelled
+AI419,IndiGo,AMD,BLR,13:30,15:55,25,delayed
+6E567,GoAir,PNQ,BLR,14:15,16:15,0,on-time
+SG208,Vistara,BLR,DEL,16:30,18:30,0,on-time
+G8435,SpiceJet,HYD,BOM,16:30,18:30,0,on-time
+SG796,IndiGo,CCU,HYD,13:30,16:44,74,delayed
+SG375,Vistara,BOM,CCU,13:45,15:45,0,on-time
+UK886,GoAir,AMD,MAA,22:30,01:16,106,delayed
+AI571,Air India,DEL,CCU,10:00,12:00,0,on-time
+6E515,SpiceJet,AMD,BOM,08:30,10:30,0,on-time
+G8549,Air India,PNQ,AMD,21:30,23:30,0,on-time
+UK363,Air India,PNQ,CCU,11:00,13:06,6,delayed
+SG369,Vistara,PNQ,DEL,21:15,23:39,24,delayed
+AI328,GoAir,BOM,AMD,16:00,18:00,0,on-time
+UK546,GoAir,PNQ,BOM,13:30,15:41,11,delayed
+AI652,SpiceJet,PNQ,HYD,19:45,21:45,0,on-time
+6E968,Vistara,BLR,BOM,06:30,08:30,0,on-time
+AI539,Air India,HYD,BLR,09:00,11:25,25,delayed
+SG237,SpiceJet,HYD,CCU,11:00,14:19,79,delayed
+AI101,Vistara,BLR,HYD,06:45,08:57,12,delayed
+AI532,SpiceJet,HYD,CCU,12:00,14:39,39,delayed
+SG652,Vistara,CCU,HYD,16:45,19:00,75,delayed
+G8776,IndiGo,BOM,AMD,09:30,11:30,0,on-time
+SG358,Air India,MAA,DEL,18:45,21:05,80,delayed
+SG237,IndiGo,MAA,PNQ,15:00,17:00,0,on-time
+AI763,GoAir,MAA,DEL,15:15,17:15,0,on-time
+6E245,SpiceJet,AMD,CCU,22:00,00:00,0,on-time
+SG156,SpiceJet,AMD,BOM,10:00,12:27,27,delayed
+SG669,Vistara,BLR,AMD,12:00,14:07,7,delayed
+G8567,Vistara,HYD,CCU,19:45,21:22,37,delayed
+6E292,SpiceJet,BOM,CCU,20:45,22:45,0,on-time
+AI693,SpiceJet,MAA,DEL,05:30,07:30,0,on-time
+G8775,GoAir,DEL,BOM,19:45,21:45,0,on-time
+UK806,GoAir,AMD,BOM,10:15,12:15,0,on-time
+UK561,Vistara,DEL,PNQ,22:45,00:59,14,delayed
+SG442,Vistara,AMD,BLR,10:15,12:51,36,delayed
+UK446,GoAir,AMD,HYD,07:30,09:52,22,delayed
+AI720,SpiceJet,BLR,AMD,13:30,15:37,7,delayed
+AI517,SpiceJet,AMD,PNQ,21:30,23:03,33,delayed
+UK958,Vistara,BLR,DEL,06:30,08:30,0,on-time
+UK264,SpiceJet,BOM,CCU,08:15,10:15,0,on-time
+G8697,Air India,PNQ,BLR,21:15,23:55,40,delayed
+G8569,Vistara,HYD,MAA,08:45,10:45,0,on-time
+SG316,Air India,AMD,CCU,16:00,18:00,0,on-time
+AI510,Vistara,HYD,DEL,13:15,15:15,0,on-time
+SG851,IndiGo,MAA,PNQ,06:45,08:45,0,on-time
+G8690,IndiGo,BLR,BOM,05:30,07:30,0,on-time
+SG969,IndiGo,BLR,DEL,11:45,13:45,0,on-time
+UK766,GoAir,CCU,PNQ,05:15,07:15,0,on-time
+SG902,Air India,BOM,MAA,09:00,11:00,0,on-time
+UK120,SpiceJet,BLR,MAA,12:00,14:00,0,on-time
+G8112,IndiGo,AMD,BLR,21:00,23:06,6,delayed
+6E988,GoAir,DEL,AMD,17:45,19:45,0,on-time
+AI724,Vistara,HYD,DEL,16:30,18:52,22,delayed
+SG176,Vistara,HYD,CCU,11:45,15:31,166,cancelled
+G8514,IndiGo,BLR,DEL,12:30,14:28,58,delayed
+6E633,Vistara,BOM,AMD,17:30,21:59,149,cancelled
+UK236,IndiGo,CCU,HYD,10:45,13:56,71,delayed
+AI166,SpiceJet,DEL,HYD,10:45,12:45,0,on-time
+G8593,SpiceJet,DEL,AMD,05:15,07:15,0,on-time
+UK620,GoAir,BOM,DEL,11:15,13:15,0,on-time
+G8791,GoAir,DEL,MAA,08:00,10:20,20,delayed
+SG660,Vistara,AMD,BLR,19:00,21:00,0,on-time
+6E182,Air India,BOM,CCU,06:00,08:00,0,on-time
+AI153,SpiceJet,BLR,CCU,20:30,22:30,0,on-time
+6E742,IndiGo,HYD,BLR,06:15,08:15,0,on-time
+AI708,GoAir,BOM,DEL,07:00,09:00,0,on-time
+6E575,Vistara,AMD,MAA,22:00,00:00,0,on-time
+SG405,IndiGo,BLR,PNQ,09:15,11:15,0,on-time
+SG492,Air India,CCU,BOM,12:30,14:35,5,delayed
+UK500,Vistara,CCU,BOM,11:00,14:15,75,delayed
+G8393,SpiceJet,AMD,HYD,18:30,20:59,29,delayed
+UK736,GoAir,DEL,BLR,12:45,14:06,21,delayed
+6E103,Air India,BLR,PNQ,15:30,17:30,0,on-time
+AI748,Air India,MAA,AMD,14:15,16:15,0,on-time
+G8243,IndiGo,BOM,DEL,16:45,18:00,15,delayed
+6E799,IndiGo,AMD,PNQ,22:00,00:00,0,on-time
+G8645,Air India,DEL,HYD,14:15,17:37,82,delayed
+SG968,Vistara,BLR,MAA,11:15,13:15,0,on-time
+G8481,Air India,DEL,CCU,15:15,17:15,0,on-time
+SG686,SpiceJet,BLR,BOM,15:30,17:51,21,delayed
+UK819,GoAir,BOM,HYD,20:00,23:14,74,delayed
+G8884,Air India,CCU,HYD,20:00,22:00,0,on-time
+SG785,Air India,DEL,BOM,16:30,18:30,0,on-time
+G8982,IndiGo,HYD,BLR,10:30,12:30,0,on-time
+SG802,Air India,AMD,DEL,06:45,08:45,0,on-time
+6E777,Air India,BOM,AMD,18:45,20:21,36,delayed
+6E147,Air India,BLR,HYD,09:00,11:00,0,on-time
+6E251,Vistara,CCU,BLR,20:00,22:00,0,on-time
+UK950,SpiceJet,DEL,HYD,12:15,14:15,0,on-time
+SG813,IndiGo,PNQ,BLR,20:30,22:30,0,on-time
+G8632,Vistara,HYD,AMD,16:00,18:00,0,on-time
+UK884,IndiGo,CCU,BOM,08:00,10:00,0,on-time
+G8343,SpiceJet,BLR,CCU,06:30,08:43,13,delayed
+UK411,Air India,BLR,CCU,12:45,14:45,0,on-time
+SG705,GoAir,MAA,PNQ,21:00,23:00,0,on-time
+SG788,Vistara,CCU,BLR,21:45,23:45,0,on-time
+SG111,GoAir,PNQ,DEL,16:15,18:15,0,on-time
+AI386,GoAir,BOM,AMD,16:45,18:45,0,on-time
+G8846,SpiceJet,HYD,DEL,18:00,20:50,50,delayed
+6E860,Vistara,PNQ,DEL,19:30,21:47,17,delayed
+SG103,SpiceJet,MAA,DEL,17:00,20:35,95,delayed
+AI356,Vistara,DEL,PNQ,07:30,09:48,18,delayed
+AI312,IndiGo,CCU,HYD,13:15,15:15,0,on-time
+G8273,Vistara,DEL,BLR,22:45,00:12,27,delayed
+6E192,IndiGo,BOM,CCU,17:30,19:30,0,on-time
+SG583,Vistara,MAA,BLR,13:30,15:30,0,on-time
+SG288,Vistara,HYD,BOM,21:15,23:15,0,on-time
+UK911,Vistara,MAA,CCU,21:30,23:30,0,on-time
+AI786,GoAir,BLR,HYD,05:45,08:37,112,delayed
+UK886,IndiGo,DEL,PNQ,14:00,16:25,25,delayed
+AI439,IndiGo,MAA,DEL,21:15,23:15,0,on-time
+SG443,IndiGo,PNQ,AMD,08:30,10:58,28,delayed
+G8745,Air India,CCU,AMD,10:00,12:07,7,delayed
+6E683,Air India,BOM,HYD,09:30,11:38,8,delayed
+6E247,Vistara,DEL,AMD,11:30,13:30,0,on-time
+UK270,SpiceJet,DEL,PNQ,08:45,10:45,0,on-time
+G8124,GoAir,BLR,DEL,14:00,16:00,0,on-time
+UK608,SpiceJet,CCU,DEL,18:30,20:30,0,on-time
+6E742,IndiGo,DEL,HYD,06:45,08:54,9,delayed
+6E753,Air India,HYD,BOM,22:15,00:15,0,on-time
